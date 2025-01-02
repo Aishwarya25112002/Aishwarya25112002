@@ -8,13 +8,13 @@
 
 - 💻📚🎓Electronics and Computer Engineering student at Sanjivani College of Engineering 📚
 
-- 💬 Ask me about ****Python, SQL, Manual Testing, Core Java, Selenium ****
+- 💬 Ask me about **** Manual Testing,Core Java,Python, SQL, Selenium ****
 
 - 📫 How to reach me **aishsonawane2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/aishwarya-sonawane25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/aishwarya-sonawane25" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aishwarya-sonawane25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/aishwarya-sonawane25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
