@@ -6,7 +6,7 @@
 
 - 🤖 I’m currently working on project **Weather prediction using Time Series Analysis**
 
-- 💻📚🎓Electronics and Computer Engineering student at Sanjivani College of Engineering 📚
+- 💻📚🎓Recent graduate Electronics and Computer Engineering From Sanjivani College of Engineering 📚
 
 - 💬 Ask me about **** Manual Testing,Core Java,Python, SQL, Selenium ****
 
