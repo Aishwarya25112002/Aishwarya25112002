@@ -114,15 +114,15 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaSonawane&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya25112002&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSonawane&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya25112002&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSonawane&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya25112002&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
