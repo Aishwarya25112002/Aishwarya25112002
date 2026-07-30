@@ -96,26 +96,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aishwarya25112002&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aishwarya25112002&theme=tokyo-night)](https://github.com/Aishwarya25112002)
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aishwarya25112002/Aishwarya25112002/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Aishwarya25112002/Aishwarya25112002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
