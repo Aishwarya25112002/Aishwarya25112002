@@ -82,17 +82,16 @@
 - JavaScript
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aishwarya25112002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya25112002&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya25112002&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya25112002&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya25112002&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aishwarya25112002&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
